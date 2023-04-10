@@ -19,12 +19,12 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
 
-<h2>High-Level Steps</h2>
+<h2>Key Points</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create Resource Group
+- Create two VMs (Windows and Ubuntu)
+- SSH into Ubuntu VM 
+- Install Wireshark to observe network traffic
 
 <h2>Actions and Observations</h2>
 
@@ -56,17 +56,12 @@ Observe Your Virtual Network within Network Watcher
 
 <p>
 <img src="https://i.imgur.com/osrh689.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WQysofa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7NrsXPV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3tDik7M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CytXK8X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8QirIqu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/V4sArMp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 2
@@ -80,7 +75,11 @@ From The Windows 10 VM, open command line or PowerShell and try to ping a public
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2vPTXb3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/X6E7nc7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8NwrrfS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Crx6xMY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xM9drJZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 3
