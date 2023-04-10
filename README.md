@@ -144,12 +144,14 @@ Oserve the immediate non-stop spam of traffic.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EWZwKt1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uLJDZrZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Zpx5QBF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 8
 Close your Remote Desktop connection session
-Delete the Resource Group or groups created at the start of this lab
-Verify Resource Group Deletion
+Delete the Resource Group or groups created at the start of this project
+Verify if the Resource Groups have been deleted from Azure to ensure no additional charges
 </p>
 <br />
