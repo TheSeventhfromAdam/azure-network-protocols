@@ -109,7 +109,9 @@ Exit the SSH connection by typing ‘exit’ and pressing [Enter]
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UBCpBZz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4RVEgjQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DUqjerC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 5
@@ -120,18 +122,19 @@ Observe the DHCP traffic appearing in WireShark
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LsgcdS9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Bw5kjAi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 6
 Back in Wireshark, filter for DNS traffic only
-From your Windows 10 VM within a command line, use nslookup to see what google.com and disney.com’s IP addresses are
+From your Windows 10 VM within a command line, use nslookup to see what google.com or disney.com’s IP addresses are
 Observe the DNS traffic being show in WireShark
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/343itn2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 7
@@ -145,8 +148,8 @@ Oserve the immediate non-stop spam of traffic.
 </p>
 <p>
 Step 8
-Close your Remote Desktop connection
-Delete the Resource Group(s) created at the beginning of this lab
+Close your Remote Desktop connection session
+Delete the Resource Group or groups created at the start of this lab
 Verify Resource Group Deletion
 </p>
 <br />
