@@ -139,7 +139,7 @@ Observe the DNS traffic being show in WireShark
 <p>
 Step 7
 Back in Wireshark, filter for RDP traffic only (tcp.port == 3389)
-Oserve the immediate non-stop spam of traffic.
+Observe the immediate non-stop spam of traffic.
 </p>
 <br />
 
