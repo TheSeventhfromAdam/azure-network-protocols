@@ -49,7 +49,7 @@ Create a Windows 10 Virtual Machine (VM)
 While you create your VM, select the previously created Resource Group
 While you create the VM, allow it to create a new Virtual Network (Vnet) and Subnet
 Create a Linux (Ubuntu) VM
-While creating the VM, select the previously created Resource Group and Vnet
+When creating the VM, select the previously created Resource Group and Vnet
 Observe Your Virtual Network within Network Watcher
 </p>
 <br />
@@ -68,7 +68,7 @@ Step 2
 Use Remote Desktop to connect to your Windows 10 Virtual Machine
 While in your Windows 10 Virtual Machine, Install Wireshark
 Open Wireshark and filter for ICMP traffic only
-Retrieve the private IP address of the Ubuntu VM and try to ping it from inside the Windows 10 VM
+Get the private IP address of the Ubuntu VM and try to ping it from inside the Windows 10 VM
 Observe ping requests and replies on WireShark
 From The Windows 10 VM, open command line or PowerShell and try to ping a public website (such as www.google.com) and observe the traffic in WireShark
 </p>
@@ -87,7 +87,7 @@ Start a perpetual/non-stop ping from your Windows 10 VM to your Ubuntu VM
 Open the Network Security Group  that your Ubuntu VM is using and disable incoming (inbound) ICMP traffic
 Go to the Windows 10 VM, observe the ICMP traffic in WireShark and the command line Ping activity
 Re-enable ICMP traffic for the Network Security Group that your Ubuntu VM is using
-Go to your the Windows 10 VM, watch the ICMP traffic in WireShark and the command line Ping activity (should start working)
+Go to your the Windows 10 VM, watch the ICMP traffic in WireShark and the command line Ping activity ( it should start working)
 Stop the ping activity
 </p>
 <br />
